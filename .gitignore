@@ -170,3 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 machine-learning/models_manifest.json
+/machine-learning/images/flowers
+/machine-learning/data/classifications/valid_imgs
+/machine-learning/data/classifications/train_imgs
