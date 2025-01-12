@@ -6,3 +6,5 @@ ipython
 # nb_black: conda install conda-forge::nb_black
 seaborn
 matplotlib
+sagemaker
+python-dotenv
