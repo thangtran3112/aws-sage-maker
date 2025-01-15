@@ -9,3 +9,6 @@ matplotlib
 sagemaker
 python-dotenv
 ipywidgets
+distro
+opencv-python
+mxnet
